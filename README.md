@@ -66,7 +66,6 @@ I am building a collection of practical projects to demonstrate my technical and
 
 - AWS Certified Cloud Practitioner
 - Salesforce AI Associate
-*Continuously working towards additional certifications in Business Analytics, SQL and Power BI.*
 
 
 🎯 My GitHub Goals
