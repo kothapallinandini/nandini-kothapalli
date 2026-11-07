@@ -1,8 +1,8 @@
 
 
 
-                                                        Hi 👋, I'm Nandini Kothapalli
-                                         MSc Business Analytics Student | Aspiring Business Analyst & BI Analyst
+                                            Hi 👋, I'm Nandini Kothapalli
+                          MSc Business Analytics Student | Aspiring Business Analyst & BI Analyst
 
                                         
 🎓 MSc Business Analytics at the University of Leicester, United Kingdom
