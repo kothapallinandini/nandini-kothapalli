@@ -1,8 +1,10 @@
+
+
+
                                                         Hi 👋, I'm Nandini Kothapalli
-
-
                                          MSc Business Analytics Student | Aspiring Business Analyst & BI Analyst
 
+                                        
 🎓 MSc Business Analytics at the University of Leicester, United Kingdom
 📊 Interested in Business Intelligence, Data Analytics, Business Analysis and Data-Driven Decision Making.
 💡 Turning business data into meaningful insights and practical solutions.
