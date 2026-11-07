@@ -80,7 +80,7 @@ I am building a collection of practical projects to demonstrate my technical and
 
 🌐 Connect With Me
 - 💼 LinkedIn: [Nandini Kothapalli](https://www.linkedin.com/in/nandinikothapalli/)
-- 🐙 GitHub: [My GitHub Profile](https://github.com/kothapallinandini)
+- 🐙 GitHub: [Nandini Kothapalli](https://github.com/kothapallinandini)
 
 
 ⭐ *Learning, building and growing towards a career in Business Analytics and Business Intelligence.*
